@@ -21,4 +21,4 @@
 ![image](https://user-images.githubusercontent.com/84101307/119741281-10b71700-be8e-11eb-8800-787e5125a3e1.png)
 ## Литература
 Автором кода является Dethe Elza  
-Подробнее о Blockcode и его создании искать в книге Эми Брауна и Майкла Дибернардо 500 Lines or Less. 
+Подробнее о Blockcode и его создании искать в книге Эми Брауна и Майкла Дибернардо 500 Lines or Less. http://aosabook.org/en/500L/blockcode-a-visual-programming-toolkit.html
